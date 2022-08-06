@@ -2,6 +2,5 @@
 
 members = [
     "hello-world",
-    "hello-linda",
     "generate-random-number"
 ]
